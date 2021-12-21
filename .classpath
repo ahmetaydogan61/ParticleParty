@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Dependencies"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/joml-1.10.2.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/joml-1.10.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/joml-1.10.2-sources.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-assimp.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-assimp-javadoc.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-assimp-natives-windows.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-assimp-sources.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-glfw.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-glfw-javadoc.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-glfw-natives-windows.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-glfw-sources.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-javadoc.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-nfd.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-nfd-javadoc.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-nfd-natives-windows.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-nfd-sources.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-openal.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-openal-javadoc.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-openal-natives-windows.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-openal-sources.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-opengl.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-opengl-javadoc.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-opengl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-opengl-sources.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-sources.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-stb.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-stb-javadoc.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-stb-natives-windows.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/lwjgl-stb-sources.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/steamworks4j-1.8.0.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/steamworks4j-1.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="Dependencies/LWJGL 3.2.3/steamworks4j-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="Dependencies/ImGui/imgui-app-1.85.0.jar"/>
+	<classpathentry kind="lib" path="Dependencies/ImGui/imgui-app-1.85.0-sources.jar"/>
+	<classpathentry kind="lib" path="Dependencies/ImGui/imgui-binding-1.85.0.jar"/>
+	<classpathentry kind="lib" path="Dependencies/ImGui/imgui-binding-1.85.0-sources.jar"/>
+	<classpathentry kind="lib" path="Dependencies/ImGui/imgui-lwjgl3-1.85.0.jar"/>
+	<classpathentry kind="lib" path="Dependencies/ImGui/imgui-lwjgl3-1.85.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
